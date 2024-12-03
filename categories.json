@@ -1,0 +1,74 @@
+    { 
+        "categories": [
+                    {
+                        "idCategory": "1",
+                        "itemCategory": "Promotions",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Honey-twister-meal_yooj9t.png"
+                    },
+                    {
+                        "idCategory": "2",
+                        "itemCategory": "Hot_Delivery_Deals",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
+                    },
+                    {
+                        "idCategory": "3",
+                        "itemCategory": "Meals",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
+                    },
+                    {
+                        "idCategory": "4",
+                        "itemCategory": "Burgers",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
+                    },
+                    {
+                        "idCategory": "5",
+                        "itemCategory": "Desserts",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/milkshake_nkmowg.png"
+                    },
+                    {
+                        "idCategory": "6",
+                        "itemCategory": "Value_Meals",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WingMan_vglvyl.png"
+                    },
+                    {
+                        "idCategory": "7",
+                        "itemCategory": "Toasted",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
+                    },
+                    {
+                        "idCategory": "8",
+                        "itemCategory": "Drinks",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/coke_imlmor.png"
+                    },
+                    {
+                        "idCategory": "9",
+                        "itemCategory": "Snacks",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/PopsBucket_tikp2c.png"
+                    },
+                    {
+                        "idCategory": "10",
+                        "itemCategory": "Online_Exclusive",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WickedZinger_tkhfsx.png"
+                    },
+                    {
+                        "idCategory": "11",
+                        "itemCategory": "Streetwise",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
+                    },
+                    {
+                        "idCategory": "12",
+                        "itemCategory": "Chicken_Pieces",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
+                    },
+                    {
+                        "idCategory": "13",
+                        "itemCategory": "Buckets",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/15pcsChicken_w2tppp.png"
+                    },
+                    {
+                        "idCategory": "14",
+                        "itemCategory": "Sides",
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Z-sauce_dske5g.png"
+                    }
+    ]
+}

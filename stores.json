@@ -1,0 +1,242 @@
+{ 
+    "stores": [
+        {
+            "store_id": 1,
+            "name": "KFC KWASHIMAN",
+            "latitude": 5.596805770524811, 
+            "longitude": -0.2753143184452308,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/kwashiman.jpg"
+        }, 
+        {
+            "store_id": 2,
+            "name": "KFC CIRCLE",
+            "latitude": 5.572155979083436,  
+            "longitude": -0.21563477426404185,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/circle.jpg"
+        },
+        {
+            "store_id": 3,
+            "name": "KFC EAST LAGON",
+            "latitude": 5.639487055616782,  
+            "longitude": -0.1690797245202274,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/east_legon.jpg"
+        },
+        {
+            "store_id": 4,
+            "name": "KFC ABLEKUMA",
+            "latitude": 5.556973386190151,  
+            "longitude": -0.23579128160577897,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/ablekuma.jpg"
+        },
+        {
+            "store_id": 5,
+            "name": "KFC DANSOMAN",
+            "latitude": 5.575767095680476,  
+            "longitude": -0.23819454093214876,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/dansoman.jpg"
+        },
+        {
+            "store_id": 6,
+            "name": "KFC MELCOM",
+            "latitude": 5.5931934522474345,  
+            "longitude": -0.20351894208024193,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/melcom.jpg"
+        },
+        {
+            "store_id": 7,
+            "name": "KFC JUNCTION MALL",
+            "latitude": 5.613262563307702,  
+            "longitude": -0.07131306314025715,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/junction_mall.jpg"
+        },
+        {
+            "store_id": 8,
+            "name": "KFC BEKWAI",
+            "latitude": 6.695621846462966,  
+            "longitude": -1.6322046509711465,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/kwabenya.jpg"
+        },
+        {
+            "store_id": 9,
+            "name": "KFC KWABENYA",
+            "latitude": 5.691078022725638,  
+            "longitude": -0.25146762080827667,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/kwabenya.jpg"
+        },
+        {
+            "store_id": 10,
+            "name": "KFC DODOWA",
+            "latitude": 5.753368890905828,  
+            "longitude": -0.14749619382902898,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/dodowa.jpg"
+        },
+        {
+            "store_id": 11,
+            "name": "KFC EAST LEGON HILLS",
+            "latitude": 5.684079279057669,  
+            "longitude": -0.11854794779426622,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/ashaiman.jpg"
+        },
+        {
+            "store_id": 12,
+            "name": "KFC ASHAIMAN",
+            "latitude": 5.689861533958198,  
+            "longitude": -0.027972982192359556,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/ashaiman.png"
+        },
+        {
+            "store_id": 13,
+            "name": "KFC SAKUMONO",
+            "latitude": 5.625365451880893,  
+            "longitude": -0.07543073615757495,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/sakumono.jpg"
+        },
+        {
+            "store_id": 14,
+            "name": "KFC HO",
+            "latitude": 6.617216040669745,  
+            "longitude": 0.47278660432519853,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/ho.jpg"
+        },
+        {
+            "store_id": 15,
+            "name": "KFC KOFORIDUA",
+            "latitude": 6.09499026460593,  
+            "longitude": -0.2598537091463526,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/koforidua.png"
+        },
+        {
+            "store_id": 16,
+            "name": "KFC HAATSO",
+            "latitude": 5.668538892655061,  
+            "longitude": -0.20618873801116985,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/haatso.png"
+        },
+        {
+            "store_id": 17,
+            "name": "KFC KNUST",
+            "latitude": 6.675760659137472,  
+            "longitude": -1.5703294496388522,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/knust.jpg"
+        },
+        {
+            "store_id": 18,
+            "name": "KFC 37 LIBERATION",
+            "latitude": 5.591159450285196,  
+            "longitude": -0.17998791895879754,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/37_liberation.jpg"
+        },
+        {
+            "store_id": 19,
+            "name": "KFC KASOA",
+            "latitude": 5.504029702542104,  
+            "longitude": -0.4175484649948605,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/kasoa.jpg"
+        },
+        {
+            "store_id": 20,
+            "name": "KFC SUNYANI",
+            "latitude": 7.341181274102648,  
+            "longitude": -2.3375067784680117,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/sunyani.jpg"
+        },
+        {
+            "store_id": 21,
+            "name": "KFC ACHIMOTA MALL",
+            "latitude": 5.637952233094252,  
+            "longitude": -0.24018446128584306,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/achimota_mall.jpg"
+        },
+        {
+            "store_id": 22,
+            "name": "KFC TAMALE",
+            "latitude": 9.409682733666973,  
+            "longitude": -0.8370469496052548,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/tamale_shell.jpg"
+        },
+        {
+            "store_id": 23,
+            "name": "KFC OSU",
+            "latitude": 5.563268947248463,  
+            "longitude": -0.18100086684833452,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/osu.jpg"
+        },
+        {
+            "store_id": 24,
+            "name": "KFC ASOKWA",
+            "latitude": 6.67037683651026,  
+            "longitude": -1.6069856361477348,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/asokwa.jpg"
+        },
+        {
+            "store_id": 25,
+            "name": "KFC ADENTA SHELL",
+            "latitude": 5.706237632075965,  
+            "longitude": -0.17004323801081137,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/adenta.jpg"
+        }, 
+        {
+            "store_id": 26,
+            "name": "KFC AHODWO",
+            "latitude": 6.66879544952517,  
+            "longitude": -1.6171495189486922,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/ahodwo.jpg"
+        }, 
+        {
+            "store_id": 27,
+            "name": "KFC KIA",
+            "latitude": 5.604581512714885,  
+            "longitude": -0.17462973244984928,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/kia.jpg"
+        }, 
+        {
+            "store_id": 28,
+            "name": "KFC CAPE COAST",
+            "latitude": 5.120866115153155,  
+            "longitude": -1.272120818962665,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/cape_coast.jpg"
+        },  
+        {
+            "store_id": 29,
+            "name": "KFC TAKORADI",
+            "latitude": 4.902119428555465,  
+            "longitude": -1.766865376636897,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/takoradi.jpg"
+        }, 
+        {
+            "store_id": 30,
+            "name": "KFC ACCRA MALL",
+            "latitude": 5.622552852657891,  
+            "longitude": -0.17294227663108663,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/accra_mall.jpg"
+        }, 
+        {
+            "store_id": 31,
+            "name": "KFC TEMA SHELL",
+            "latitude": 5.668802216202237,  
+            "longitude": -0.018750847794416284,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/tema.jpg"
+        }, 
+        {
+            "store_id": 32,
+            "name": "KFC TARKWA",
+            "latitude": 5.3290090491598106,  
+            "longitude": -1.9798986766335498,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/tarkwa.jpg"
+        }, 
+        {
+            "store_id": 33,
+            "name": "KFC EAST LAGON BOUNDARY" ,
+            "latitude": 5.643896684560737, 
+            "longitude": -0.14705950546721322, 
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/east_lagon_boundery.jpg"
+        }, 
+        {
+            "store_id": 34,
+            "name": "KFC WEIJA",
+            "latitude": 5.545929752416526,  
+            "longitude": -0.3416306245246167,
+            "image_url": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733191353/stores-api/weija.jpg"
+        }
+]
+}
