@@ -474,6 +474,12 @@
                     "itemName": "STREETWISE 2 CHIPS - ORIGINAL",
                     "itemCategory": "Srteewise",
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
+                },
+                {
+                    "id": 80,
+                    "itemName": "MASH AND GRAVY",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733363303/images/eidqmpzlbbyxjbgaohrc.png"
                 }
-                ]
+            ]
 }
