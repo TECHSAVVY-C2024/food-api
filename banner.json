@@ -1,0 +1,22 @@
+{
+    "banner" : [
+                {
+                    "id": 1,
+                    "itemName": "FESTIVE BOX",
+                    "itemCategory": "banner",
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365850/images/ljiegrrphj6kowds8gfd.jpg"
+                },
+                {
+                    "id": 2,
+                    "itemName": "FESTIVE FEAST",
+                    "itemCategory": "banner",
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                },
+                {
+                    "id": 3,
+                    "itemName": "MASH AND GRAVY",
+                    "itemCategory": "banner",
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365847/images/ge4vxxi5tueoeip32bz2.jpg"
+                }
+            ]
+}

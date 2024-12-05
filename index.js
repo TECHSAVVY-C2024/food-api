@@ -25,6 +25,11 @@ app.get('/stores', async (req, res) => {
   res.json(stores); // Adjust according to JSON structure
 });
 
+app.get('/banner', async (req, res) => {
+  const banner = await loadJSON("./banner.json");
+  res.json(banner); // Adjust according to JSON structure
+});
+
 app.get('/categories', async (req, res) => {
   const categories = await loadJSON("./categories.json");
   res.json(categories); // Adjust according to JSON structure
