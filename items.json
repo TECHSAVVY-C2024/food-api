@@ -582,6 +582,27 @@
                     "itemCategory": "Promotions",
                     "prices": 335,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                },
+                {
+                    "idItems": 85,
+                    "itemName": "VEG BURGER",
+                    "itemCategory": "Burgers",
+                    "prices": 47,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                },
+                {
+                    "idItems": 86,
+                    "itemName": "COLONEL TOWER BURGER",
+                    "itemCategory": "Burgers",
+                    "prices": 90,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                },
+                {
+                    "idItems": 87,
+                    "itemName": "ZINGER TOWER BURGER",
+                    "itemCategory": "Burgers",
+                    "prices": 90,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
                 }
             ]
 }

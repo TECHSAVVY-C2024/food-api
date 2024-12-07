@@ -25,9 +25,9 @@ app.get('/stores', async (req, res) => {
   res.json(stores); // Adjust according to JSON structure
 });
 
-app.get('/banner', async (req, res) => {
-  const banner = await loadJSON("./banner.json");
-  res.json(banner); // Adjust according to JSON structure
+app.get('/banners', async (req, res) => {
+  const banners = await loadJSON("./banners.json");
+  res.json(banners); // Adjust according to JSON structure
 });
 
 app.get('/categories', async (req, res) => {
@@ -51,6 +51,13 @@ app.get("/items/:id", async (req, res) => {
   const items = await loadJSON("./items.json");
   const id = parseInt(req.params.id);
   const foundItem = items.items.find((item) => item.id === id);
+  res.json(foundItem);
+});
+
+app.get("/banners/:id", async (req, res) => {
+  const banners = await loadJSON("./banners.json");
+  const id = parseInt(req.params.id);
+  const foundItem = banners.banners.find((banner) => banner.idBanner === id);
   res.json(foundItem);
 });
 
@@ -99,6 +106,7 @@ app.put("/items/:id", async (req, res) => {
   }
 });
 
+
 app.patch("/items/:id", async (req, res) => {
   const items = await loadJSON("./items.json");
   const id = parseInt(req.params.id);
@@ -119,6 +127,44 @@ app.patch("/items/:id", async (req, res) => {
   await fs.writeFile("./items.json", JSON.stringify(items, null, 2), "utf8");
   
   res.json(replacementItem);
+});
+
+app.patch("/banners/:id", async (req, res) => {
+  try {
+    const banners = await loadJSON("./banners.json");
+    const id = parseInt(req.params.id);
+    
+    // Find the banner by id
+    const existingItem = banners.banners.find((banner) => banner.idBanner === id);
+    
+    // If the banner doesn't exist, return 404
+    if (!existingItem) {
+      return res.status(404).json({ error: "Item not found." });
+    }
+
+    // Create the replacement item, with fallback to existing data if fields are not provided
+    const replacementItem = {
+      idBanner: id,
+      bannerName: req.body.name || existingItem.bannerName,
+      bannerCategory: existingItem.bannerCategory, // Use existing category as it is not passed in request
+      bannerImage: req.body.image || existingItem.bannerImage, // Fallback to the existing image if not provided
+    };
+
+    // Find the index of the existing item
+    const searchIndex = banners.banners.findIndex((banner) => banner.idBanner === id);
+
+    // Replace the existing item with the new item
+    banners.banners[searchIndex] = replacementItem;
+
+    // Write the updated data back to the JSON file
+    await fs.writeFile("./banners.json", JSON.stringify(banners, null, 2), "utf8");
+
+    // Send the updated item in the response
+    res.json(replacementItem);
+  } catch (error) {
+    console.error("Error updating banner:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
 });
 
 app.delete("/items/:id", async (req, res) => {
