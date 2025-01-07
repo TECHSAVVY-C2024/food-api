@@ -8,7 +8,7 @@
                     },
                     {
                         "idCategory": 2,
-                        "categoriesItem": "Hot_Delivery_Deals",
+                        "categoriesItem": "Hot_Delivery Deals",
                         "itemName": "WING FEAST - MILKSHAKE",
                         "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
                     },
@@ -32,7 +32,7 @@
                     },
                     {
                         "idCategory": 6,
-                        "categoriesItem": "Value_Meals",
+                        "categoriesItem": "Value Meals",
                         "itemName": "KFC WINGMAN",
                         "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WingMan_vglvyl.png"
                     },
@@ -56,7 +56,7 @@
                     },
                     {
                         "idCategory": 10,
-                        "categoriesItem": "Online_Exclusive",
+                        "categoriesItem": "Online Exclusive",
                         "itemName": "WICKED ZINGER MEAL",
                         "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WickedZinger_tkhfsx.png"
                     },
@@ -68,7 +68,7 @@
                     },
                     {
                         "idCategory": 12,
-                        "categoriesItem": "Chicken_Pieces",
+                        "categoriesItem": "Chicken Pieces",
                         "itemName": "1 PIECE CHICKEN - HOT & CRISPY",
                         "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
                     },
@@ -82,7 +82,7 @@
                         "idCategory": 14,
                         "categoriesItem": "Sides",
                         "itemName": "MASH AND GRAVY",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733363303/images/eidqmpzlbbyxjbgaohrc.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1736282388/xtc4rxiqov6axtnpxzbv.jpg"
                     }
     ]
 }
