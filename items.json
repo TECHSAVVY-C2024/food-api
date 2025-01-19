@@ -588,21 +588,21 @@
                     "itemName": "VEG BURGER",
                     "itemCategory": "Burgers",
                     "prices": 47,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                    "itemImage": "https://res-console.cloudinary.com/dl2j0yjt9/thumbnails/v1/image/upload/v1737300698/VmVnQnVyZ2VyX3p2cDNyOA==/drilldown"
                 },
                 {
                     "idItems": 86,
                     "itemName": "COLONEL TOWER BURGER",
                     "itemCategory": "Burgers",
                     "prices": 90,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737300696/towerBurger_ipaxoj.jpg"
                 },
                 {
                     "idItems": 87,
                     "itemName": "ZINGER TOWER BURGER",
                     "itemCategory": "Burgers",
                     "prices": 90,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737300696/towerBurger_ipaxoj.jpg"
                 }
             ]
 }
