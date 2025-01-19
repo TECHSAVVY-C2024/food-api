@@ -225,28 +225,28 @@
                 {
                     "idItems": 33,
                     "itemName": "1 PIECE CHICKEN - HOT & CRISPY",
-                    "itemCategory": "Chicken pieces",
+                    "itemCategory": "Chicken Pieces",
                     "prices": 29,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
                 },
                 {
                     "idItems": 34,
                     "itemName": "1 PIECE CHICKEN - ORIGINAL",
-                    "itemCategory": "Chicken pieces",
+                    "itemCategory": "Chicken Pieces",
                     "prices": 29,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
                 },
                 {
                     "idItems": 35,
                     "itemName": "2 PIECE CHICKEN - HOT & CRISPY",
-                    "itemCategory": "Chicken pieces",
+                    "itemCategory": "Chicken Pieces",
                     "prices": 55,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2pcsChicken_akdhoi.png"
                 },
                 {
                     "idItems": 36,
                     "itemName": "2 PIECE CHICKEN - ORIGINAL",
-                    "itemCategory": "Chicken pieces",
+                    "itemCategory": "Chicken Pieces",
                     "prices": 55,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2pcsChicken_akdhoi.png"
                 },
@@ -308,21 +308,21 @@
                 {
                     "idItems": 45,
                     "itemName": "WICKED ZINGER MEAL",
-                    "itemCategory": "Online Exclusives",
+                    "itemCategory": "Online Exclusive",
                     "prices": 175,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WickedZinger_tkhfsx.png"
                 },
                 {
                     "idItems": 46,
                     "itemName": "FULLY LOAD MEAL - HOT & CRISPY",
-                    "itemCategory": "Online Exclusives",
+                    "itemCategory": "Online Exclusive",
                     "prices": 155,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/FullyLoaderMeal_uzx2b4.png"
                 },
                 {
                     "idItems": 47,
                     "itemName": "FULLY LOAD MEAL - ORIGINAL",
-                    "itemCategory": "Online Exclusives",
+                    "itemCategory": "Online Exclusive",
                     "prices": 155,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/FullyLoaderMeal_uzx2b4.png"
                 },
@@ -376,56 +376,56 @@
                 {
                     "idItems": 55,
                     "itemName": "WING FEAST - MILKSHAKE",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 25,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
                 },
                 {
                     "idItems": 56,
                     "itemName": "WING FEAST - KRUSHER",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 25,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-krusher_k74gmf.png"
                 },
                 {
                     "idItems": 57,
                     "itemName": "STREETWISE 2 CHIPS BUNDLE - HOT & CRISPY",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 79,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2Chicken-chipsAnd-Drink_i5yluj.png"
                 },
                 {
                     "idItems": 58,
                     "itemName": "STREETWISE 2 CHIPS BUNDLE - ORIGINAL",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 79,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2Chicken-chipsAnd-Drink_i5yluj.png"
                 },
                 {
                     "idItems": 59,
                     "itemName": "STREETWISE 2 RICE BUNDLE - HOT & CRISPY",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 85,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRice_glxowb.png"
                 },
                 {
                     "idItems": 60,
                     "itemName": "STREETWISE 2 RICE BUNDLE - ORIGINAL",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 85,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRice_glxowb.png"
                 },
                 {
                     "idItems": 61,
                     "itemName": "STREETWISE 5 BUNDLE- HOT & CRISPY",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 25,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5chickenWithChips_rbcqoj.png"
                 },
                 {
                     "idItems": 62,
                     "itemName": "STREETWISE 5 BUNDLE - ORIGINAL",
-                    "itemCategory": "Hot Delivery Meals",
+                    "itemCategory": "Hot Delivery",
                     "prices": 25,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5chickenWithChips_rbcqoj.png"
                 },
@@ -467,84 +467,84 @@
                 {
                     "idItems": 68,
                     "itemName": "STREETWISE 5 - HOT & CRISPY",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 143,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
                 },
                 {
                     "idItems": 69,
                     "itemName": "STREETWISE 5 - ORIGINAL",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 143,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
                 },
                 {
                     "idItems": 70,
                     "itemName": "STREETWISE 4 - HOT & CRISPY",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 119,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/4ChickenWithChips_iyvwcv.png"
                 },
                 {
                     "idItems": 71,
                     "itemName": "STREETWISE 4 - ORIGINAL",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 119,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/4ChickenWithChips_iyvwcv.png"
                 },
                 {
                     "idItems": 72,
                     "itemName": "STREETWISE 3 RICE - HOT & CRISPY",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 89,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithRice_yuaf7g.png"
                 },
                 {
                     "idItems": 73,
                     "itemName": "STREETWISE 3 RICE - ORIGINAL",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 89,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithRice_yuaf7g.png"
                 },
                 {
                     "idItems": 74,
                     "itemName": "STREETWISE 3 CHIPS - HOT & CRISPY",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 83,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithChips_gdltks.png"
                 },
                 {
                     "idItems": 75,
                     "itemName": "STREETWISE 3 CHIPS - ORIGINAL",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 83,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithChips_gdltks.png"
                 },
                 {
                     "idItems": 76,
                     "itemName": "STREETWISE 2 RICE - HOT & CRISPY",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 71,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRiceOnly_rcuojm.png"
                 },
                 {
                     "idItems": 77,
                     "itemName": "STREETWISE 2 RICE - ORIGINAL",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 71,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRiceOnly_rcuojm.png"
                 },
                 {
                     "idItems": 78,
                     "itemName": "STREETWISE 2 CHIPS - HOT & CRISPY",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 65,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
                 },
                 {
                     "idItems": 79,
                     "itemName": "STREETWISE 2 CHIPS - ORIGINAL",
-                    "itemCategory": "Srteewise",
+                    "itemCategory": "Streetwise",
                     "prices": 65,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
                 },
