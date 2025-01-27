@@ -4,85 +4,85 @@
                         "idCategory": 1,
                         "categoriesItem": "Promotions",
                         "itemName": "FESTIVE FEAST",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
                     },
                     {
                         "idCategory": 2,
                         "categoriesItem": "Hot Delivery",
                         "itemName": "WING FEAST - MILKSHAKE",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
                     },
                     {
                         "idCategory": 3,
                         "categoriesItem": "Meals",
                         "itemName": "BURGER MEAL - ZINGER",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
                     },
                     {
                         "idCategory": 4,
                         "categoriesItem": "Burgers",
                         "itemName": "BURGER - ZINGER",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
                     },
                     {
                         "idCategory": 5,
                         "categoriesItem": "Desserts",
                         "itemName": "MILKSHAKE - STRAWBERRY",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/milkshake_nkmowg.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/milkshake_nkmowg.png"
                     },
                     {
                         "idCategory": 6,
                         "categoriesItem": "Value Meals",
                         "itemName": "KFC WINGMAN",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WingMan_vglvyl.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/WingMan_vglvyl.png"
                     },
                     {
                         "idCategory": 7,
                         "categoriesItem": "Toasted",
                         "itemName": "TWISTER - ZINGER",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
                     },
                     {
                         "idCategory": 8,
                         "categoriesItem": "Drinks",
                         "itemName": "COCA COLA 300ML",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/coke_imlmor.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/coke_imlmor.png"
                     },
                     {
                         "idCategory": 9,
                         "categoriesItem": "Snacks",
                         "itemName": "BITES - LARGE",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/PopsBucket_tikp2c.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/PopsBucket_tikp2c.png"
                     },
                     {
                         "idCategory": 10,
                         "categoriesItem": "Online Exclusive",
                         "itemName": "WICKED ZINGER MEAL",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WickedZinger_tkhfsx.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/WickedZinger_tkhfsx.png"
                     },
                     {
                         "idCategory": 11,
                         "categoriesItem": "Streetwise",
                         "itemName": "STREETWISE 5 - HOT & CRISPY",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/5Chicken_j7gw5n.png"
                     },
                     {
                         "idCategory": 12,
                         "categoriesItem": "Chicken Pieces",
                         "itemName": "1 PIECE CHICKEN - HOT & CRISPY",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/1pscChicken_xa56qs.png"
                     },
                     {
                         "idCategory": 13,
                         "categoriesItem": "Buckets",
                         "itemName": "15 PIECE BUCKET - HOT & CRISPY",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/15pcsChicken_w2tppp.png"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/15pcsChicken_w2tppp.png"
                     },
                     {
                         "idCategory": 14,
                         "categoriesItem": "Sides",
                         "itemName": "MASH AND GRAVY",
-                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1736282388/xtc4rxiqov6axtnpxzbv.jpg"
+                        "categoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1736282388/xtc4rxiqov6axtnpxzbv.jpg"
                     }
     ]
 }

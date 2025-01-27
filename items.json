@@ -5,632 +5,632 @@
                     "itemName": "BITES - LARGE",
                     "itemCategory": "Snacks",
                     "prices": 66,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/LargePops_mfd7wi.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/LargePops_mfd7wi.png"
                 },
                 {
                     "idItems": 2,
                     "itemName": "KFC KOKO",
                     "itemCategory": "Sides",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Sprite_wji8ig.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Sprite_wji8ig.png"
                 },
                 {
                     "idItems": 3,
                     "itemName": "BITES - REGULAR",
                     "itemCategory": "Snacks",
                     "prices": 60,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/LargePops_mfd7wi.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/LargePops_mfd7wi.png"
                 },
                 {
                     "idItems": 4,
                     "itemName": "LIME CHILLI WINGS - 12 PIECES",
                     "itemCategory": "Snacks",
                     "prices": 167,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/12Wings_ice5ca.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/12Wings_ice5ca.png"
                 },
                 {
                     "idItems": 5,
                     "itemName": "LIME CHILLI WINGS - 6 PIECES",
                     "itemCategory": "Snacks",
                     "prices": 83,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/6Wings_v0sl5v.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/6Wings_v0sl5v.png"
                 },
                 {
                     "idItems": 6,
                     "itemName": "BITES BUCKET",
                     "itemCategory": "Snacks",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/PopsBucket_tikp2c.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/PopsBucket_tikp2c.png"
                 },
                 {
                     "idItems": 7,
                     "itemName": "Chichen-Bites",
                     "itemCategory": "Snacks",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Sprite_wji8ig.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Sprite_wji8ig.png"
                 },
                 {
                     "idItems": 8,
                     "itemName": "COLONEL DIP SAUCE",
                     "itemCategory": "Sides",
                     "prices": 10,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/C-sauce_l8khb1.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/C-sauce_l8khb1.png"
                 },
                 {
                     "idItems": 9,
                     "itemName": "ZINGER DIP SAUCE",
                     "itemCategory": "Sides",
                     "prices": 10,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Z-sauce_dske5g.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Z-sauce_dske5g.png"
                 },
                 {
                     "idItems": 10,
                     "itemName": "CHIPS BUCKET",
                     "itemCategory": "Sides",
                     "prices": 66,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/ChipsBucket_ebirj6.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/ChipsBucket_ebirj6.png"
                 },
                 {
                     "idItems": 11,
                     "itemName": "EXTRA - VEG SHITO",
                     "itemCategory": "Sides",
                     "prices": 5,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Shito_kzfj5o.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Shito_kzfj5o.png"
                 },
                 {
                     "idItems": 12,
                     "itemName": "SIDE - KFC JOLLOF RICE",
                     "itemCategory": "Sides",
                     "prices": 30,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/RiceOnly_jfiq8o.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/RiceOnly_jfiq8o.png"
                 },
                 {
                     "idItems": 13,
                     "itemName": "LARGE CHIPS",
                     "itemCategory": "Sides",
                     "prices": 42,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/LargeChipsOnly_korq2s.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/LargeChipsOnly_korq2s.png"
                 },
                 {
                     "idItems": 14,
                     "itemName": "REGULAR CHIPS",
                     "itemCategory": "Sides",
                     "prices": 36,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/LargeChipsOnly_korq2s.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/LargeChipsOnly_korq2s.png"
                 },
                 {
                     "idItems": 15,
                     "itemName": "EXTRA - CHEESE SLICE",
                     "itemCategory": "Sides",
                     "prices": 14,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Cheese_lucbua.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Cheese_lucbua.png"
                 },
                 {
                     "idItems": 16,
                     "itemName": "EXTRA - TOMATO KETCHUP",
                     "itemCategory": "Sides",
                     "prices": 6,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/ketchup_woxzvd.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/ketchup_woxzvd.png"
                 },
                 {
                     "idItems": 17,
                     "itemName": "SIDE - REG COLESLAW",
                     "itemCategory": "Sides",
                     "prices": 12,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/coleslaw_q93chq.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/coleslaw_q93chq.png"
                 },
                 {
                     "idItems": 18,
                     "itemName": "SPRITE 300ML",
                     "itemCategory": "Drinks",
                     "prices": 14,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Sprite_wji8ig.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Sprite_wji8ig.png"
                 },
                 {
                     "idItems": 19,
                     "itemName": "FANTA 300ML",
                     "itemCategory": "Drinks",
                     "prices": 14,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Fanta_ebl0nb.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Fanta_ebl0nb.png"
                 },
                 {
                     "idItems": 20,
                     "itemName": "COCA COLA 300ML",
                     "itemCategory": "Drinks",
                     "prices": 14,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/coke_imlmor.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/coke_imlmor.png"
                 },
                 {
                     "idItems": 21,
                     "itemName": "WATER 500ML",
                     "itemCategory": "Drinks",
                     "prices": 7,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Water_lhgpq7.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Water_lhgpq7.png"
                 },
                 {
                     "idItems": 22,
                     "itemName": "KFC CHICKEN RICE BOWL",
                     "itemCategory": "Value Meals",
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/ChickenRiceBowl_rnhw0k.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/ChickenRiceBowl_rnhw0k.png"
                 },
                 {
                     "idItems": 23,
                     "itemName": "CHICKEN BITES MEAL",
                     "itemCategory": "Value Meals",
                     "prices": 83,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/ChickenPopsMeal_ffiotm.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/ChickenPopsMeal_ffiotm.png"
                 },
                 {
                     "idItems": 24,
                     "itemName": "KFC WINGMAN",
                     "itemCategory": "Value Meals",
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WingMan_vglvyl.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/WingMan_vglvyl.png"
                 },
                 {
                     "idItems": 25,
                     "itemName": "BURGER MEAL - ZINGER",
                     "itemCategory": "Meals",
                     "prices": 95,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
                 },
                 {
                     "idItems": 26,
                     "itemName": "BURGER MEAL - COLONEL",
                     "itemCategory": "Meals",
                     "prices": 95,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
                 },
                 {
                     "idItems": 27,
                     "itemName": "TWISTER MEAL - ZINGER",
                     "itemCategory": "Meals",
                     "prices": 78,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterWithChips_hrhmg8.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/TwisterWithChips_hrhmg8.png"
                 },
                 {
                     "idItems": 28,
                     "itemName": "TWISTER MEAL - COLONEL",
                     "itemCategory": "Meals",
                     "prices": 78,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterWithChips_hrhmg8.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/TwisterWithChips_hrhmg8.png"
                 },
                 {
                     "idItems": 29,
                     "itemName": "BURGER - ZINGER",
                     "itemCategory": "Burgers",
                     "prices": 71,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
                 },
                 {
                     "idItems": 30,
                     "itemName": "BURGER - COLONEL",
                     "itemCategory": "Burgers",
                     "prices": 71,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
                 },
                 {
                     "idItems": 31,
                     "itemName": "TWISTER - ZINGER",
                     "itemCategory": "Toasted",
                     "prices": 61,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
                 },
                 {
                     "idItems": 32,
                     "itemName": "TWISTER COLONEL",
                     "itemCategory": "Toasted",
                     "prices": 61,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
                 },
                 {
                     "idItems": 33,
                     "itemName": "1 PIECE CHICKEN - HOT & CRISPY",
                     "itemCategory": "Chicken Pieces",
                     "prices": 29,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/1pscChicken_xa56qs.png"
                 },
                 {
                     "idItems": 34,
                     "itemName": "1 PIECE CHICKEN - ORIGINAL",
                     "itemCategory": "Chicken Pieces",
                     "prices": 29,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/1pscChicken_xa56qs.png"
                 },
                 {
                     "idItems": 35,
                     "itemName": "2 PIECE CHICKEN - HOT & CRISPY",
                     "itemCategory": "Chicken Pieces",
                     "prices": 55,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2pcsChicken_akdhoi.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2pcsChicken_akdhoi.png"
                 },
                 {
                     "idItems": 36,
                     "itemName": "2 PIECE CHICKEN - ORIGINAL",
                     "itemCategory": "Chicken Pieces",
                     "prices": 55,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2pcsChicken_akdhoi.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2pcsChicken_akdhoi.png"
                 },
                 {
                     "idItems": 37,
                     "itemName": "MINI BONELESS BUCKET",
                     "itemCategory": "Buckets",
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/MiniBonelessBucket_hfpuum.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/MiniBonelessBucket_hfpuum.png"
                 },
                 
                 {
                     "idItems": 38,
                     "itemName": "BONELESS BUCKET MEAL",
                     "itemCategory": "Buckets",
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BonelessBucketMeal_tfbhnl.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/BonelessBucketMeal_tfbhnl.png"
                 },
                 {
                     "idItems": 39,
                     "itemName": "9 PIECE BUCKET - HOT & CRISPY",
                     "itemCategory": "Buckets",
                     "prices": 239,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/9pcsChicken_zbdtfg.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/9pcsChicken_zbdtfg.png"
                 },
                 {
                     "idItems": 40,
                     "itemName": "9 PIECE BUCKET - ORIGINAL",
                     "itemCategory": "Buckets",
                     "prices": 239,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/9pcsChicken_zbdtfg.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/9pcsChicken_zbdtfg.png"
                 },
                 {
                     "idItems": 41,
                     "itemName": "12 PIECE BUCKET - HOT & CRISPY",
                     "itemCategory": "Buckets",
                     "prices": 311,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/12pcsChicken_d2wasd.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/12pcsChicken_d2wasd.png"
                 },
                 {
                     "idItems": 42,
                     "itemName": "12 PIECE BUCKET - ORIGINAL",
                     "itemCategory": "Buckets",
                     "prices": 311,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/12pcsChicken_d2wasd.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/12pcsChicken_d2wasd.png"
                 },
                 {
                     "idItems": 43,
                     "itemName": "15 PIECE BUCKET - HOT & CRISPY",
                     "itemCategory": "Buckets",
                     "prices": 384,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/15pcsChicken_w2tppp.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/15pcsChicken_w2tppp.png"
                 },
                 {
                     "idItems": 44,
                     "itemName": "15 PIECE BUCKET - ORIGINAL",
                     "itemCategory": "Buckets",
                     "prices": 384,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/15pcsChicken_w2tppp.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/15pcsChicken_w2tppp.png"
                 },
                 {
                     "idItems": 45,
                     "itemName": "WICKED ZINGER MEAL",
                     "itemCategory": "Online Exclusive",
                     "prices": 175,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WickedZinger_tkhfsx.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/WickedZinger_tkhfsx.png"
                 },
                 {
                     "idItems": 46,
                     "itemName": "FULLY LOAD MEAL - HOT & CRISPY",
                     "itemCategory": "Online Exclusive",
                     "prices": 155,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/FullyLoaderMeal_uzx2b4.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/FullyLoaderMeal_uzx2b4.png"
                 },
                 {
                     "idItems": 47,
                     "itemName": "FULLY LOAD MEAL - ORIGINAL",
                     "itemCategory": "Online Exclusive",
                     "prices": 155,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/FullyLoaderMeal_uzx2b4.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/FullyLoaderMeal_uzx2b4.png"
                 },
                 {
                     "idItems": 48,
                     "itemName": "STREETWISE WINGS MEAL - RICE",
                     "itemCategory": "Promotions",
                     "prices": 42,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Rice-meal_cb7igc.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Rice-meal_cb7igc.png"
                 },
                 {
                     "idItems": 49,
                     "itemName": "STREETWISE WINGS MEAL - CHIPS",
                     "itemCategory": "Promotions",
                     "prices": 42,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/wings-meal_ismdwy.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/wings-meal_ismdwy.png"
                 },
                 {
                     "idItems": 50,
                     "itemName": "HONEY DUNKED WINGS",
                     "itemCategory": "Promotions",
                     "prices": 83,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Honey-wings_m80xe3.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Honey-wings_m80xe3.png"
                 },
                 {
                     "idItems": 51,
                     "itemName": "HONEY DUNKED TWISTER MEAL",
                     "itemCategory": "Promotions",
                     "prices": 102,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Honey-twister-meal_yooj9t.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Honey-twister-meal_yooj9t.png"
                 },
                 {
                     "idItems": 52,
                     "itemName": "HONEY DUNKED TWISTER",
                     "itemCategory": "Promotions",
                     "prices": 66,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/twister-wings_mm52gg.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/twister-wings_mm52gg.png"
                 },
                 {
                     "idItems": 53,
                     "itemName": "FEELI FEELI BUCKET - HOT & CRISPY",
                     "itemCategory": "Promotions",
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/OR-Chicken-Bucket_kn61st.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/OR-Chicken-Bucket_kn61st.png"
                 },
                 {
                     "idItems": 54,
                     "itemName": "FEELI FEELI BUCKET - ORIGINAL",
                     "itemCategory": "Promotions",
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/OR-Chicken-Bucket_kn61st.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/OR-Chicken-Bucket_kn61st.png"
                 },
                 {
                     "idItems": 55,
                     "itemName": "WING FEAST - MILKSHAKE",
                     "itemCategory": "Hot Delivery",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
                 },
                 {
                     "idItems": 56,
                     "itemName": "WING FEAST - KRUSHER",
                     "itemCategory": "Hot Delivery",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-krusher_k74gmf.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/Wings-Feast-krusher_k74gmf.png"
                 },
                 {
                     "idItems": 57,
                     "itemName": "STREETWISE 2 CHIPS BUNDLE - HOT & CRISPY",
                     "itemCategory": "Hot Delivery",
                     "prices": 79,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2Chicken-chipsAnd-Drink_i5yluj.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2Chicken-chipsAnd-Drink_i5yluj.png"
                 },
                 {
                     "idItems": 58,
                     "itemName": "STREETWISE 2 CHIPS BUNDLE - ORIGINAL",
                     "itemCategory": "Hot Delivery",
                     "prices": 79,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2Chicken-chipsAnd-Drink_i5yluj.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2Chicken-chipsAnd-Drink_i5yluj.png"
                 },
                 {
                     "idItems": 59,
                     "itemName": "STREETWISE 2 RICE BUNDLE - HOT & CRISPY",
                     "itemCategory": "Hot Delivery",
                     "prices": 85,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRice_glxowb.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2ChickenWithRice_glxowb.png"
                 },
                 {
                     "idItems": 60,
                     "itemName": "STREETWISE 2 RICE BUNDLE - ORIGINAL",
                     "itemCategory": "Hot Delivery",
                     "prices": 85,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRice_glxowb.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2ChickenWithRice_glxowb.png"
                 },
                 {
                     "idItems": 61,
                     "itemName": "STREETWISE 5 BUNDLE- HOT & CRISPY",
                     "itemCategory": "Hot Delivery",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5chickenWithChips_rbcqoj.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/5chickenWithChips_rbcqoj.png"
                 },
                 {
                     "idItems": 62,
                     "itemName": "STREETWISE 5 BUNDLE - ORIGINAL",
                     "itemCategory": "Hot Delivery",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5chickenWithChips_rbcqoj.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/5chickenWithChips_rbcqoj.png"
                 },
                 {
                     "idItems": 63,
                     "itemName": "REGULAR KITKAT KRUSHER",
                     "itemCategory": "Desserts",
                     "prices": 47,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/kitkat_udvyfw.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/kitkat_udvyfw.png"
                 },
                 {
                     "idItems": 64,
                     "itemName": "MINI KITKAT KRUSHER",
                     "itemCategory": "Desserts",
                     "prices": 35,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/kitkat_udvyfw.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/kitkat_udvyfw.png"
                 },
                 {
                     "idItems": 65,
                     "itemName": "MILKSHAKE - STRAWBERRY",
                     "itemCategory": "Desserts",
                     "prices": 48,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/milkshake_nkmowg.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/milkshake_nkmowg.png"
                 },
                 {
                     "idItems": 66,
                     "itemName": "REGULAR BERRY KRUSHER",
                     "itemCategory": "Desserts",
                     "prices": 47,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/berryKrusher_asmt1v.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/berryKrusher_asmt1v.png"
                 },
                 {
                     "idItems": 67,
                     "itemName": "MINI BERRY KRUSHER",
                     "itemCategory": "Desserts",
                     "prices": 35,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/berryKrusher_asmt1v.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/berryKrusher_asmt1v.png"
                 },
                 {
                     "idItems": 68,
                     "itemName": "STREETWISE 5 - HOT & CRISPY",
                     "itemCategory": "Streetwise",
                     "prices": 143,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/5Chicken_j7gw5n.png"
                 },
                 {
                     "idItems": 69,
                     "itemName": "STREETWISE 5 - ORIGINAL",
                     "itemCategory": "Streetwise",
                     "prices": 143,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/5Chicken_j7gw5n.png"
                 },
                 {
                     "idItems": 70,
                     "itemName": "STREETWISE 4 - HOT & CRISPY",
                     "itemCategory": "Streetwise",
                     "prices": 119,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/4ChickenWithChips_iyvwcv.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/4ChickenWithChips_iyvwcv.png"
                 },
                 {
                     "idItems": 71,
                     "itemName": "STREETWISE 4 - ORIGINAL",
                     "itemCategory": "Streetwise",
                     "prices": 119,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/4ChickenWithChips_iyvwcv.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/4ChickenWithChips_iyvwcv.png"
                 },
                 {
                     "idItems": 72,
                     "itemName": "STREETWISE 3 RICE - HOT & CRISPY",
                     "itemCategory": "Streetwise",
                     "prices": 89,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithRice_yuaf7g.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/3ChickenWithRice_yuaf7g.png"
                 },
                 {
                     "idItems": 73,
                     "itemName": "STREETWISE 3 RICE - ORIGINAL",
                     "itemCategory": "Streetwise",
                     "prices": 89,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithRice_yuaf7g.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/3ChickenWithRice_yuaf7g.png"
                 },
                 {
                     "idItems": 74,
                     "itemName": "STREETWISE 3 CHIPS - HOT & CRISPY",
                     "itemCategory": "Streetwise",
                     "prices": 83,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithChips_gdltks.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/3ChickenWithChips_gdltks.png"
                 },
                 {
                     "idItems": 75,
                     "itemName": "STREETWISE 3 CHIPS - ORIGINAL",
                     "itemCategory": "Streetwise",
                     "prices": 83,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/3ChickenWithChips_gdltks.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/3ChickenWithChips_gdltks.png"
                 },
                 {
                     "idItems": 76,
                     "itemName": "STREETWISE 2 RICE - HOT & CRISPY",
                     "itemCategory": "Streetwise",
                     "prices": 71,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRiceOnly_rcuojm.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2ChickenWithRiceOnly_rcuojm.png"
                 },
                 {
                     "idItems": 77,
                     "itemName": "STREETWISE 2 RICE - ORIGINAL",
                     "itemCategory": "Streetwise",
                     "prices": 71,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithRiceOnly_rcuojm.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2ChickenWithRiceOnly_rcuojm.png"
                 },
                 {
                     "idItems": 78,
                     "itemName": "STREETWISE 2 CHIPS - HOT & CRISPY",
                     "itemCategory": "Streetwise",
                     "prices": 65,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
                 },
                 {
                     "idItems": 79,
                     "itemName": "STREETWISE 2 CHIPS - ORIGINAL",
                     "itemCategory": "Streetwise",
                     "prices": 65,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1731588434/Images_api/2ChickenWithSmallChips_fqrycs.png"
                 },
                 {
                     "idItems": 80,
                     "itemName": "MASH AND GRAVY",
                     "itemCategory": "Sides",
                     "prices": 25,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733575683/images/w4kyn6beehvsejnmwsdb.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1733575683/images/w4kyn6beehvsejnmwsdb.jpg"
                 },
                 {
                     "idItems": 81,
                     "itemName": "FESTIVE BOX HC",
                     "itemCategory": "Promotions",
                     "prices": 179,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365850/images/ljiegrrphj6kowds8gfd.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1733365850/images/ljiegrrphj6kowds8gfd.jpg"
                 },
                 {
                     "idItems": 82,
                     "itemName": "FESTIVE BOX OR",
                     "itemCategory": "Promotions",
                     "prices": 179,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365850/images/ljiegrrphj6kowds8gfd.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1733365850/images/ljiegrrphj6kowds8gfd.jpg"
                 },
                 {
                     "idItems": 83,
                     "itemName": "FESTIVE FEAST HC",
                     "itemCategory": "Promotions",
                     "prices": 335,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
                 },
                 {
                     "idItems": 84,
                     "itemName": "FESTIVE FEAST OR",
                     "itemCategory": "Promotions",
                     "prices": 335,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1733365851/images/m8sezgdfq4xojp5uqd4n.jpg"
                 },
                 {
                     "idItems": 85,
                     "itemName": "VEG BURGER",
                     "itemCategory": "Burgers",
                     "prices": 47,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737300698/VegBurger_zvp3r8.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737300698/VegBurger_zvp3r8.jpg"
                 },
                 {
                     "idItems": 86,
                     "itemName": "COLONEL TOWER BURGER",
                     "itemCategory": "Burgers",
                     "prices": 90,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737300696/towerBurger_ipaxoj.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737300696/towerBurger_ipaxoj.jpg"
                 },
                 {
                     "idItems": 87,
                     "itemName": "ZINGER TOWER BURGER",
                     "itemCategory": "Burgers",
                     "prices": 90,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737300696/towerBurger_ipaxoj.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737300696/towerBurger_ipaxoj.jpg"
                 },
                 {
                     "idItems": 88,
                     "itemName": "BOXMASTER ZINGER",
                     "itemCategory": "Toasted",
                     "prices": 90,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936599/BOXMASTER_jg4ufa.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737936599/BOXMASTER_jg4ufa.jpg"
                 },
                 {
                     "idItems": 89,
                     "itemName": "BOXMASTER COLONEL",
                     "itemCategory": "Toasted",
                     "prices": 90,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936599/BOXMASTER_jg4ufa.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737936599/BOXMASTER_jg4ufa.jpg"
                 },
                 {
                     "idItems": 90,
                     "itemName": "BOXMASTER MEAL - ZINGER",
                     "itemCategory": "Meals",
                     "prices": 95,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936645/BOXMASTER-MEAL_edkca9.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737936645/BOXMASTER-MEAL_edkca9.jpg"
                 },
                 {
                     "idItems": 91,
                     "itemName": "BOXMASTER MEAL - COLONEL",
                     "itemCategory": "Meals",
                     "prices": 95,
-                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936645/BOXMASTER-MEAL_edkca9.jpg"
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/c_scale,w_500,f_auto,q_auto,fl_lossy/v1737936645/BOXMASTER-MEAL_edkca9.jpg"
                 }
             ]
 }
