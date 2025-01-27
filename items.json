@@ -603,6 +603,34 @@
                     "itemCategory": "Burgers",
                     "prices": 90,
                     "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737300696/towerBurger_ipaxoj.jpg"
+                },
+                {
+                    "idItems": 88,
+                    "itemName": "BOXMASTER ZINGER",
+                    "itemCategory": "Toasted",
+                    "prices": 90,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936599/BOXMASTER_jg4ufa.jpg"
+                },
+                {
+                    "idItems": 89,
+                    "itemName": "BOXMASTER COLONEL",
+                    "itemCategory": "Toasted",
+                    "prices": 90,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936599/BOXMASTER_jg4ufa.jpg"
+                },
+                {
+                    "idItems": 90,
+                    "itemName": "BOXMASTER MEAL - ZINGER",
+                    "itemCategory": "Meals",
+                    "prices": 95,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936645/BOXMASTER-MEAL_edkca9.jpg"
+                },
+                {
+                    "idItems": 91,
+                    "itemName": "BOXMASTER MEAL - COLONEL",
+                    "itemCategory": "Meals",
+                    "prices": 95,
+                    "itemImage": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1737936645/BOXMASTER-MEAL_edkca9.jpg"
                 }
             ]
 }
